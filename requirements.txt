@@ -1,0 +1,11 @@
+gradio==5.50.0
+langchain==1.2.0
+langchain-core
+langchain-community
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+transformers
+torch
+numpy
+pillow
